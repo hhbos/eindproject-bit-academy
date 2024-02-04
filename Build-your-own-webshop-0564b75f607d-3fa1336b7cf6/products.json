@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "naam": "Pokémon TCG Scarlet & Violet Paradox Rift booster",
+      "prijs": 5.99,
+      "aantal": 10
+    },
+    {
+      "id": 2,
+      "naam": "Pokémon TCG Scarlet & Violet Paldean Fates booster",
+      "prijs": 6.99,
+      "aantal": 15
+    },
+    {
+      "id": 3,
+      "naam": "Pokémon TCG Scarlet & Violet Lost Origin booster",
+      "prijs": 3.99,
+      "aantal": 8
+    },
+    {
+      "id": 4,
+      "naam": "Pokémon TCG Scarlet & Violet Silver Tempest booster",
+      "prijs": 4.99,
+      "aantal": 5
+    },
+    {
+      "id": 5,
+      "naam": "Pokémon TCG Scarlet & Violet Astral Radiance booster",
+      "prijs": 5.99,
+      "aantal": 12
+    },
+    {
+      "id": 6,
+      "naam": "Pokémon TCG Scarlet & Violet Brilliant Stars booster",
+      "prijs": 6.99,
+      "aantal": 20
+    }
+  ]
+  
